@@ -1,2 +1,2 @@
 # Portoflio
-This is Portfoli reprository which consist of projects I participated.
+This is Portfolio reprository which consist of projects I participated.
